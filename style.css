@@ -41,6 +41,12 @@ body {
  
 /* [profile]のスタイルシート */
  
+.profile-picture {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+}
+
 .item-list {
   width: 100%;
   max-width: 348px;
@@ -203,3 +209,4 @@ body {
  
   .works-list li span {font-size: 14px;}
 }
+
