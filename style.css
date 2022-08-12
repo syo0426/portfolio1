@@ -73,7 +73,7 @@ body {
   margin: 30px auto;
   padding: 0;
   display: flex;
-  -webkit-justify-content: center;
+  justify-content: center;
 }
  
 .icon-list li {
@@ -114,7 +114,7 @@ body {
  
 .works-list .link {
   display: flex;
-  -webkit-justify-content: left;
+  justify-content: left;
   margin-top: 15px;
 }
 
